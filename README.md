@@ -31,6 +31,7 @@
 2. [Dynamic Deep Neural Networks: Optimizing Accuracy-Efficiency Trade-offs by Selective Execution](https://arxiv.org/abs/1701.00299)     
 3. [Dynamic Multi-path Neural Network](https://arxiv.org/abs/1902.10949v3) | 2019         
 4. [Dynamic Neural Network Channel Execution for Efficient Training](https://arxiv.org/abs/1905.06435?context=cs.LG) | 2019      
+
 PS: Focus on the acceleration of the training process.      
 
 ## Object Detection with Anchor
