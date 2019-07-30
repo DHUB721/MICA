@@ -40,8 +40,12 @@ PS: Focus on the acceleration of the training process.
 ## Anchor-free Object Detection        
 1. [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) | 2019             
 
-## Segmentation        
-1. [Panoptic Segmentation](https://arxiv.org/abs/1801.00868?context=cs.CV) | 2019           
+## Segmentation         
+1. [U-Net](https://arxiv.org/abs/1505.04597v1)      
+2. [3D CNN](https://ieeexplore.ieee.org/abstract/document/6165309)      
+3. [3D U-Net](https://arxiv.org/abs/1606.06650)      
+4. [V-Net](https://ieeexplore.ieee.org/abstract/document/7785132)      
+5. [Panoptic Segmentation](https://arxiv.org/abs/1801.00868?context=cs.CV) | 2019           
 
 
 ## Structural Optimization    
@@ -53,13 +57,5 @@ PS: Focus on the acceleration of the training process.
 
 
 # Videos         
-1. [RCNN](https://pan.baidu.com/s/1XzrhbmnA3QR1yM8HEICuzg)  
-2. [SPPnet]()    
-3. [Fast RCNN](https://pan.baidu.com/s/1WceqHQ01Y-WR2spm5GdtAA)  
-4. [Faster RCNN]()         
-5. [YOLO v1]    
-6. [SSD]    
-7. [YOLO v2]     
-8. [YOLO v3]    
-9. [Mask RCNN](https://pan.baidu.com/s/19J3f9i939a_pgxgPdE10jQ) 
+百度云：
  
