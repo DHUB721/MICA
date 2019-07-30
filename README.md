@@ -2,7 +2,6 @@
 1. For learning and communication purposes only, if there is any error, please contact me to correct!    
 2. Do not use cyber violence!    
 3. Not allowed to spread without permission!      
-4. Supplementary material: https://blog.csdn.net/qq_33254870   
 4. QQ group chat: 953606968     
 
 
